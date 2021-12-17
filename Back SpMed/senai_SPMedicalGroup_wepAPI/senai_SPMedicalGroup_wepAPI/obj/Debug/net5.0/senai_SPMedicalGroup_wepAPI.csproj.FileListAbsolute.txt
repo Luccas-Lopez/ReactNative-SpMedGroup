@@ -1,0 +1,194 @@
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.exe
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.deps.json
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.runtimeconfig.json
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.runtimeconfig.dev.json
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\ref\senai_SPMedicalGroup_wepAPI.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.pdb
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.csproj.AssemblyReference.cache
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.AssemblyInfoInputs.cache
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.AssemblyInfo.cs
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.csproj.CoreCompileInputs.cache
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\staticwebassets\senai_SPMedicalGroup_wepAPI.StaticWebAssets.Manifest.cache
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\staticwebassets\senai_SPMedicalGroup_wepAPI.StaticWebAssets.xml
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\scopedcss\bundle\senai_SPMedicalGroup_wepAPI.styles.css
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.csproj.CopyComplete
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\ref\senai_SPMedicalGroup_wepAPI.dll
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.pdb
+C:\Users\Patricia\source\repos\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.genruntimeconfig.cache
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.exe
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.deps.json
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.runtimeconfig.json
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.runtimeconfig.dev.json
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\ref\senai_SPMedicalGroup_wepAPI.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.pdb
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.csproj.AssemblyReference.cache
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.AssemblyInfoInputs.cache
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.AssemblyInfo.cs
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.csproj.CoreCompileInputs.cache
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\staticwebassets\senai_SPMedicalGroup_wepAPI.StaticWebAssets.Manifest.cache
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\staticwebassets\senai_SPMedicalGroup_wepAPI.StaticWebAssets.xml
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\scopedcss\bundle\senai_SPMedicalGroup_wepAPI.styles.css
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.csproj.CopyComplete
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\ref\senai_SPMedicalGroup_wepAPI.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.pdb
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.genruntimeconfig.cache
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.xml
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patricia\Desktop\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.xml
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.exe
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.deps.json
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.runtimeconfig.json
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.runtimeconfig.dev.json
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\ref\senai_SPMedicalGroup_wepAPI.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.pdb
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\senai_SPMedicalGroup_wepAPI.xml
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.csproj.AssemblyReference.cache
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.AssemblyInfoInputs.cache
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.AssemblyInfo.cs
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.csproj.CoreCompileInputs.cache
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\staticwebassets\senai_SPMedicalGroup_wepAPI.StaticWebAssets.Manifest.cache
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\staticwebassets\senai_SPMedicalGroup_wepAPI.StaticWebAssets.xml
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\scopedcss\bundle\senai_SPMedicalGroup_wepAPI.styles.css
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.RazorTargetAssemblyInfo.cache
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.csproj.CopyComplete
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\ref\senai_SPMedicalGroup_wepAPI.dll
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.xml
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.pdb
+C:\Users\42175477819\Desktop\Back SpMed\senai_SPMedicalGroup_wepAPI\senai_SPMedicalGroup_wepAPI\obj\Debug\net5.0\senai_SPMedicalGroup_wepAPI.genruntimeconfig.cache
